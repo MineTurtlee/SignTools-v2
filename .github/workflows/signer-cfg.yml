@@ -33,7 +33,7 @@ builder:
 # if your builder is hosted on the internet (e.g. GitHub or Semaphore),
 # this must to be a public url reachable over internet, not LAN IP or localhost
 # leave empty if using a tunnel provider, it will set this automatically
-server_url: https://mineturtlee.github.io/signtoolsyay
+server_url: https://mineturtlee.github.io/Trashed-Repo
 # whether to redirect all http requests to https
 redirect_https: false
 # where to save data like apps and signing profiles
